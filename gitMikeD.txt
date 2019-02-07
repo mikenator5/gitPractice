@@ -7,3 +7,5 @@ Fixed bug 837.491
 Fixed bug 87
 
 Fixed bug 100
+
+Fixed bug 101
