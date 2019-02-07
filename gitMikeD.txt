@@ -1,3 +1,5 @@
 Hello World -- this is MikeD!
 Change
 Fixed bug 389.311
+
+Fixed bug 837.491
