@@ -3,3 +3,5 @@ Change
 Fixed bug 389.311
 
 Fixed bug 837.491
+
+Fixed bug 87
